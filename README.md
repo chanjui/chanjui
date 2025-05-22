@@ -1,7 +1,7 @@
 <h1 align="center">허찬희 개발자</h1>
 
 <p align="center">
-  💻 Full-stack Developer | 🎓 Non-CS 전공 | 🔥 Passion for Backend Development
+   풀스택 개발자 |  방송통신대학교 컴퓨터학부 2025년 7월 졸업 예정 |  백엔드에 진심인 비전공 개발자
 </p>
 
 ## 🧰 Tech Stack
